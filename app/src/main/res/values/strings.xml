@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lab Exam</string>
+    <string name="portfolio_website"><font color="#FF000000">Portfolio Website:</font> temesgen.vercel.app</string>
+    <string name="change_password">Change password</string>
+    <string name="type_current_password">Type current password</string>
+    <string name="type_new_password">Type new password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="delete_user">delete user</string>
+    <string name="type_your_id">Type your campus id</string>
+    <string name="type_your_full_name">Type your full name</string>
+    <string name="type_your_phone_number">Type your phone number</string>
+    <string name="type_your_email_address">Type your email address</string>
+    <string name="type_your_address">Type your address</string>
+    <string name="type_your_portfolio_website">Type your portfolio website</string>
+    <string name="mekdela_amba_university_students_registration_portal">
+        <font color="#00a8ff">Mekdela </font>Amba
+        <font color="#353b48"> University Students </font>
+        <font color="#00a8ff"> Registration Portal </font>
+        </string>
+    <string name="mekdela_amba_university">
+        <font color="#00a8ff">Mekdela </font>Amba
+        <font color="#353b48"> University </font>
+        </string>
+    <string name="register">register</string>
+    <string name="type_your_campus_name">Type your campus name</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="login">Login</string>
+    <string name="already_have_account_login">Already have account?<font color="#00a8ff">  login </font> </string>
+    <string name="don_t_have_an_account_create_account">Don\'t have an account? <font color="#00a8ff">  Create Account </font></string>
+</resources>
